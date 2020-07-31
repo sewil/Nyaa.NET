@@ -1,2 +1,2 @@
-# NyaaUploader.NET
+# Nyaa.NET
 Nyaa API wrapper
